@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+}
+h1{
+  margin-top:50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  color:tomato;
+  font-size:60px;
+
+}
+button{
+  padding: 15px 25px;
+  border-radius: 10px;
+  background: green;
+  text-transform: uppercase;
+  color: blue;
+  border:none;
+  margin-left: 50px;
+}
